@@ -11,11 +11,11 @@ function handleSubmit(evt) {
 function catCompliment(evt){
 	evt.preventDefault()
 
-	alert('You\'re an awesome person)
+	alert('You\'re an awesome person')
 }
 
 let form = document.querySelector('#contact');
-let pic = document.querySelector('img')
+let pic = document.querySelector('img');
 
 form.addEventListener('submit', handleSubmit);
-pic.addEventListener('mouseover', catCompliment)
+pic.addEventListener('mouseover', catCompliment);

@@ -36,3 +36,29 @@ input {
 img {
 	max-width: 300px;
 }
+
+.awesome {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.hobbies{
+	font-size: 15pt;
+	margin: auto;
+	font-weight: 600;
+}
+h1 {
+	display: block;
+	text-align: center;
+}
+
+ol {
+	text-align: left;
+}
+
+.btn{
+	background-color: yellow;
+	padding: 30px;
+	margin: 5px;
+}
